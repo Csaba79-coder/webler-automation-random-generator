@@ -86,12 +86,4 @@ bin/
 
 .env
 .gitkeep
-
-# Project exclude paths
-/api-contract/target/
-/government-service/target/
-/discovery-server/target/
-/api-gateway/target/
-/logging-service/target/
-/user-service/target/
-/frontend/build/
+/src/main/resources/names.txt
